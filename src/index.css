@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    color: #fff;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #111;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    border: 3px solid #fff;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: lightblue;
+    border: 3px solid #fff;
+}
+h1{
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+.boxt{
+    height: 100px;
+    width: 100px;
+    margin-top: 10vh;
+    background-color: blanchedalmond;
+    border: 3px solid #fff;
+}
